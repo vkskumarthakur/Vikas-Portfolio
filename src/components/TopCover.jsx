@@ -1,6 +1,6 @@
 import React from "react";
 import CoverImg from "../assets/imgs/aurora-bg-cover.jpg";
-import resume from "../assets/docs/vikas_kumar_thakur_frontend_resume_2024.pdf";
+import resume from "../assets/docs/vikas_resume.pdf";
 
 const TopCover = () => {
   return (
