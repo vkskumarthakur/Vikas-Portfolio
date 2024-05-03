@@ -1,6 +1,6 @@
 import React from "react";
 import CoverImg from "../assets/imgs/aurora-bg-cover.jpg";
-import resume from "../assets/docs/vikas_resume.pdf";
+import resume from "../assets/docs/Vikas-Kumar-Thakur.pdf";
 
 const TopCover = () => {
   return (
@@ -31,7 +31,7 @@ const TopCover = () => {
                   target="_blank"
                   className="text-sm hover:border-b-2 hover:border-green-500"
                 >
-                  Software Engineer (Frontend)
+                  Software Engineer (Front-End)
                 </a>
               </div>
             </div>
