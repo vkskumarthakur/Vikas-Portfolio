@@ -5,6 +5,8 @@ import scssimg from "../assets/imgs/SCSS-or-CSS.webp";
 import tailwindimg from "../assets/imgs/tailwind-css.jpg";
 import bootstrapimg from "../assets/imgs/Bootstrap-5.png";
 import reactimg from "../assets/imgs/react-js.png";
+import nextjsimg from "../assets/imgs/next-js.jpg";
+import typescriptimg from "../assets/imgs/typescript.png";
 import gitimg from "../assets/imgs/git.webp";
 
 const techData = [
@@ -66,6 +68,22 @@ const techData = [
   },
   {
     id: 8,
+    imgsrc: nextjsimg,
+    techName: "Next Js",
+    techStatus: " 60%",
+    techExperience: "1 Year",
+    techColor: "#67DFFE",
+  },
+  {
+    id: 9,
+    imgsrc: typescriptimg,
+    techName: "TypeScript",
+    techStatus: " 60%",
+    techExperience: "1 Year",
+    techColor: "#67DFFE",
+  },
+  {
+    id: 10,
     imgsrc: gitimg,
     techName: "Github",
     techStatus: " 80%",
