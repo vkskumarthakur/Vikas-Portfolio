@@ -1,9 +1,8 @@
-import makemytripimg from "../assets/imgs/makemytrip.png";
 import ecommerceimg from "../assets/imgs/e-commerce.png";
 import pastenotes from "../assets/imgs/paste-notes.png";
 import autoslider from "../assets/imgs/sliding-slider.jpg";
 import cryptocurrencyimg from "../assets/imgs/dashboard-02.png";
-import loanappimg from "../assets/imgs/loan-app-01.png";
+import linkedinimg from "../assets/imgs/linkedin-img.png";
 const projectCardData = [
   {
     id: 1,
@@ -21,17 +20,17 @@ const projectCardData = [
   },
   {
     id: 3,
+    imgsrc: linkedinimg,
+    projectName: "Linkedin UI Clone",
+    technologyUsed: "Technology Used - HTML, CSS and Javascript",
+    link: "https://vkskumarthakur.github.io/Linkedin-UI-Clone/",
+  },
+  {
+    id: 4,
     imgsrc: cryptocurrencyimg,
     projectName: "Cryptocurrency Dashboard",
     technologyUsed: "Technology Used - HTML, CSS and Javascript",
     link: "https://vkskumarthakur.github.io/Crypto/",
-  },
-  {
-    id: 4,
-    imgsrc: loanappimg,
-    projectName: "Loan Checker UI clone",
-    technologyUsed: "Technology Used - HTML, CSS, Bootstrap and Javascript",
-    link: "https://personal-loan-dream-loan.netlify.app/",
   },
   {
     id: 5,
