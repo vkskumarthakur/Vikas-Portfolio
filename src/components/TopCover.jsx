@@ -27,11 +27,11 @@ const TopCover = () => {
               VIKAS KUMAR THAKUR
               <div>
                 <a
-                  href="https://www.google.com/search?sca_esv=3ce1258c96567b3a&rlz=1C1CHBF_enIN1021IN1021&q=vikas+kumar+thakur&stick=H4sIAAAAAAAAAOOwesRoyi3w8sc9YSmdSWtOXmNU4-IJSC0qzs8LTk0sSs4QEuNic80rySypFOKR4uLiiPd2LTMoiSzkWcQqVJaZnViskF2am1ikUJKRmF1aBABvGPRVTwAAAA&sa=X&ved=2ahUKEwj__7ajo62EAxUz-jgGHfsBCX0QnJoFegQIMhAG&biw=1536&bih=703&dpr=1.25"
+                  href="https://linkedin.com/in/vkskumarthakur"
                   target="_blank"
                   className="text-sm hover:border-b-2 hover:border-green-500"
                 >
-                  Software Engineer (Front-End)
+                  Front-End Developer
                 </a>
               </div>
             </div>

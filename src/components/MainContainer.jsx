@@ -71,7 +71,7 @@ const MainContainer = () => {
         </div>
       </div>
       <div className="mt-10">
-        <p className="text-center thankyou-text">Thank you for visiting!</p>
+        {/* <p className="text-center thankyou-text">Thank you for visiting!</p> */}
       </div>
     </div>
   );
