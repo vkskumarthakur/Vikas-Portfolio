@@ -17,7 +17,7 @@ const projectCardData = [
     imgsrc: pastenotes,
     projectName: "Paste Notes Application",
     technologyUsed: "Technology Used - React Js, Tailwind CSS and HTML",
-    link: "https://master--paste-notes.netlify.app/",
+    link: "https://pastenotes.netlify.app/",
   },
   {
     id: 3,
