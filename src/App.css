@@ -42,6 +42,8 @@
     /* transition: all .3s; */
     animation: blink 3s linear infinite;
 }
+
+/* animation remove*/
 @keyframes blink{
     0%{
         color:#ffffff;
