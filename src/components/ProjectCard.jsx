@@ -4,7 +4,7 @@ const ProjectCard = (props) => {
   // const scroll = useRef(null);
   return (
     <div className="w-full md:w-[48%] lg:w-[23%] rounded-md overflow-hidden">
-      <a href={props.link} className="hover:cursor-pointer">
+      <a href={props.link} className="hover:cursor-pointer" target="_blank">
         <div className="min-h-[200px] overflow-hidden">
           <img
             src={props.imgsrc}
