@@ -6,15 +6,15 @@ const TopCover = () => {
   return (
     <div id="home">
       <div
-        className="bg-cover h-[150px] overflow-hidden rounded-sm"
-        style={{
-          backgroundImage: `url(${CoverImg})`,
-          backgroundRepeat: "no-repeat",
-        }}
+        className="h-[150px] overflow-hidden bg-[#ffffff12] rounded-sm"
+        // style={{
+        //   backgroundImage: `url(${CoverImg})`,
+        //   backgroundRepeat: "no-repeat",
+        // }}
       >
         <div
           className="h-full flex justify-between items-center px-3 md:px-10 py-3"
-          style={{ backdropFilter: "blur(12px)" }}
+          // style={{ backdropFilter: "blur(12px)" }}
         >
           <div className="flex gap-3 items-center md:flex-row lg:flex-row lg:justify-start lg:gap-10 lg:items-center">
             <div className="avatar-container w-14 h-14 rounded-full md:w-24 md:h-24 md:rounded-full bg-transparent border-green-400 border-2 overflow-hidden">
@@ -38,7 +38,7 @@ const TopCover = () => {
           </div>
           <div className="hidden md:block">
             <a href={resume} download>
-              <button className="bg-[#00000099] flex items-center justify-between gap-2 text-white rounded-md px-3 py-2 transition-all duration-500 hover:bg-green-400">
+              <button className="bg-[#ffffff] flex items-center justify-between gap-2 text-black rounded-md px-3 py-2 transition-all duration-500 hover:bg-green-400">
                 Download Resume
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
