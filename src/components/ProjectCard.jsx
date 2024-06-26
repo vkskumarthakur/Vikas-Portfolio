@@ -5,10 +5,10 @@ const ProjectCard = (props) => {
   return (
     <div className="w-full md:w-[48%] lg:w-[23%] rounded-md overflow-hidden">
       <a href={props.link} className="hover:cursor-pointer" target="_blank">
-        <div className="min-h-[200px] overflow-hidden">
+        <div className="h-[200px] overflow-hidden">
           <img
             src={props.imgsrc}
-            className="min-h-[inherit] h-[200px] w-full transition-all hover:scale-105 "
+            className="h-full w-full transition-all hover:scale-105 "
           />
         </div>
       </a>
