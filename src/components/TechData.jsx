@@ -68,6 +68,14 @@ const techData = [
   },
   {
     id: 8,
+    imgsrc: "https://tms-outsource.com/blog/wp-content/uploads/2023/05/redux-alternatives-1024x461.jpg",
+    techName: "Redux",
+    techStatus: " 60%",
+    techExperience: "1 Year",
+    techColor: "#67DFFE",
+  },
+  {
+    id: 8,
     imgsrc: nextjsimg,
     techName: "Next Js",
     techStatus: " 60%",

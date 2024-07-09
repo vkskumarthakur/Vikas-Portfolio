@@ -26,7 +26,7 @@ const SideBar = () => {
       <div>
         <ul className="flex flex-col gap-4">
           <li
-            className="group flex justify-center lg:justify-start items-center gap-5 transition-all duration-500 hover:-translate-y-1 cursor-pointer transition-all duration-300 hover:-translate-y-1 cursor-pointer px-2 py-3 rounded-md hover:bg-green-400"
+            className="group flex justify-center lg:justify-start items-center gap-5 transition-all duration-500 hover:-translate-y-1 cursor-pointer transition-all duration-300 px-2 py-3 rounded-md hover:bg-green-400"
             onClick={scrollToHome}
           >
             <span>
@@ -107,7 +107,7 @@ const SideBar = () => {
               </svg>
             </span>
             <span className="text-[#424242] font-bold group-hover:text-black hidden lg:block">
-              Technologies
+              Skills
             </span>
           </li>
           <li

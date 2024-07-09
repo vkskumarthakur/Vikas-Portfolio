@@ -15,7 +15,7 @@ const Header = () => {
           />
         </div>
         <span className="text-sm text-white font-bold lg:text-xl">
-          Hi There!
+          {/* Hi There! */}
         </span>
       </div>
       <div className="py-2 px-10 flex justify-between items-center gap-2">
