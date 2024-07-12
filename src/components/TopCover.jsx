@@ -61,7 +61,7 @@ const TopCover = () => {
           </div>
           <div className="md:hidden lg:hidden sm:block">
             <a href={resume} download>
-              <button className="bg-[#00000099] text-white rounded-md px-2 py-2 transition-all duration-500 hover:bg-green-400">
+              <button className="bg-[#00000099] text-black rounded-md px-2 py-2 transition-all duration-500 bg-green-400">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="12"
