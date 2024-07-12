@@ -53,7 +53,7 @@ const MainContainer = () => {
 
       <div className="mt-5">
         <h2 className="mb-4 text-xl font-bold" id="experience">
-          Experiences
+          Work Experiences
         </h2>
         <div className="flex justify-start items-stretch flex-wrap gap-y-5 gap-x-5">
           {experiencecardData.map((experiencedata, key) => {
