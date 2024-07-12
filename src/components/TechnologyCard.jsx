@@ -7,7 +7,7 @@ const TechnologyCard = (props) => {
       <div className="h-[100px]  overflow-hidden">
         <img
           src={props.imgsrc}
-          className="h-[inherit] h-auto w-full transition-all hover:scale-105 "
+          className="h-full w-full transition-all hover:scale-105 "
         />
       </div>
       <div className="p-2 bg-white flex justify-between">
