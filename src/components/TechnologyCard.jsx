@@ -3,15 +3,15 @@ import React from "react";
 const TechnologyCard = (props) => {
   // const pwidth = `w-[${props.techStatus}] bg-green-500`
   return (
-    <div className="w-full md:w-[48%] lg:w-[23%] rounded-md overflow-hidden">
-      <div className="min-h-[200px] overflow-hidden">
+    <div className="w-[45%] md:w-[23%] lg:w-[14.66%] rounded-md overflow-hidden">
+      <div className="h-[100px]  overflow-hidden">
         <img
           src={props.imgsrc}
-          className="min-h-[inherit] h-[200px] w-full transition-all hover:scale-105 "
+          className="h-[inherit] h-auto w-full transition-all hover:scale-105 "
         />
       </div>
       <div className="p-2 bg-white flex justify-between">
-        <h3 className="text-black font-medium">{props.techName}</h3>
+        <h3 className="text-black text-sm md:text-base">{props.techName}</h3>
         {/* <p className="text-sm text-slate-600 my-1">{props.techExperience}</p> */}
       </div>
       <div className="w-full">
