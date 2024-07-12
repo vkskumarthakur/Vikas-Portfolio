@@ -317,7 +317,7 @@ const SideBar = () => {
           </li>
           <li className="group flex justify-center lg:justify-start items-center gap-5 p-2 transition-all duration-500 hover:-translate-y-1 cursor-pointer transition-all duration-500 hover:-translate-y-1 cursor-pointer">
             <a
-              href="tel: 9798485648"
+              href="https://wa.me/919798485648"
               className=""
             >
               <span>
@@ -325,7 +325,7 @@ const SideBar = () => {
               </span>
             </a>
             <a
-              href="tel: 9798485648"
+              href="https://wa.me/919798485648"
               className="hidden lg:block"
             >
               <span className="text-[#424242] font-bold text-left group-hover:text-[#25D366] hidden lg:block">
