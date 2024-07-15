@@ -3,7 +3,7 @@ import React from "react";
 const TechnologyCard = (props) => {
   // const pwidth = `w-[${props.techStatus}] bg-green-500`
   return (
-    <div className="w-[45%] md:w-[22%] lg:w-[14.66%] rounded-md overflow-hidden">
+    <div className="w-[45%] md:w-[22%] lg:w-[12.55%] rounded-md overflow-hidden">
       <div className="h-[100px]  overflow-hidden">
         <img
           src={props.imgsrc}
