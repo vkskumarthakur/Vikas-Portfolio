@@ -5,7 +5,15 @@ import cryptocurrencyimg from "../assets/imgs/dashboard-02.png";
 import linkedinimg from "../assets/imgs/linkedin-img.png";
 import gsapfantaimg from "../assets/imgs/GsapFanta.png";
 import reactfrontendimg from "../assets/imgs/user-management-react-app.png";
+import dashboardImg from "../assets/imgs/Dashboard-App.jpg";
 const projectCardData = [
+  {
+    id: 1,
+    imgsrc: dashboardImg,
+    projectName: "Dashboard",
+    technologyUsed: "Technology Used - Next Js, Tailwind CSS and HTML",
+    link: "",
+  },
   {
     id: 1,
     imgsrc: ecommerceimg,
