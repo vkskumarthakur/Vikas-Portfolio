@@ -12,7 +12,7 @@ const projectCardData = [
     imgsrc: dashboardImg,
     projectName: "Dashboard",
     technologyUsed: "Technology Used - Next Js, Tailwind CSS and HTML",
-    link: "",
+    link: "https://next-js-dashboard-sigma-ashy.vercel.app/",
   },
   {
     id: 1,
