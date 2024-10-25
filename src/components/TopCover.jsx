@@ -38,7 +38,7 @@ const TopCover = () => {
           </div>
           <div className="hidden md:block">
             <a href={resume} download>
-              <button className="bg-[#ffffff] flex items-center justify-between gap-2 text-black rounded-md px-3 py-2 transition-all duration-500 hover:bg-green-400">
+              <button className="bg-[#ffffff] flex items-center justify-between gap-2 text-black rounded-md px-3 py-2 transition-all duration-500 hover:bg-green-400 group">
                 Download Resume
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +50,7 @@ const TopCover = () => {
                   strokeWidth="2"
                   strokeLinecap="round"
                   strokeLinejoin="round"
-                  className="lucide lucide-download-cloud"
+                  className="lucide lucide-download-cloud transition-all group-hover:translate-y-1"
                 >
                   <path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242" />
                   <path d="M12 12v9" />
